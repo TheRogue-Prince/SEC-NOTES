@@ -1,0 +1,11 @@
+*.pcap
+*.pcapng
+*.mem
+*.zip
+*.tar.gz
+*.exe
+*.dll
+*.apk
+__MACOSX/
+.DS_Store
+.obsidian/
